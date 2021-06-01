@@ -11,26 +11,32 @@
 
             to make sure you give every album the same consistent appearance.
          */
-.album-container {
+#album-container {
 }
 
-.album-cover {
+#album-reviews {
 }
 
-.album-title {
+#album-cover {
 }
 
-.album-group {
+#album-title {
 }
 
-.album-genre {
+#album-group {
 }
 
-.album-duration {
+#album-genre {
 }
 
-.album-tracklist {
+#album-duration {
 }
 
-.album-interesting {
+#album-tracklist {
+}
+
+#album-interesting {
+}
+
+#hall-of-shame {
 }
